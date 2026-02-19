@@ -23,3 +23,15 @@ h1 {
 a {
   color: #fee389;
 }
+
+#commands_table{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border-color: #f6f0ee;
+  }
+  table, th, td {
+    border: 1px solid;
+    padding: 8px;
+    border-color: aliceblue;
+  }
